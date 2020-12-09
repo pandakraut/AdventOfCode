@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace AdventOfCode2020
 {
-    class day9_2
+    class day9_1
     {        
         public static HashSet<long> numbers = new HashSet<long>();
         public static List<long> numbersList = new List<long>();
